@@ -1,5 +1,3 @@
-package kz.aitu.daa;
-
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
