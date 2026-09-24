@@ -1,4 +1,3 @@
-package kz.aitu.daa;
 
 import java.nio.file.Path;
 import java.util.Arrays;
