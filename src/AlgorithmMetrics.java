@@ -1,5 +1,3 @@
-package kz.aitu.daa;
-
 public final class AlgorithmMetrics {
     private long comparisons;
     private long swaps;
