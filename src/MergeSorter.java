@@ -1,5 +1,3 @@
-package kz.aitu.daa;
-
 public final class MergeSorter {
     private static final int INSERTION_SORT_CUTOFF = 24;
     private AlgorithmMetrics metrics = new AlgorithmMetrics();
