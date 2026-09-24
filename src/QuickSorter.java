@@ -1,4 +1,3 @@
-package kz.aitu.daa;
 
 import java.util.SplittableRandom;
 
