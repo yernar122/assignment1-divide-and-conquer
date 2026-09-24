@@ -1,6 +1,3 @@
-package kz.aitu.daa;
-
-/** Linear worst-case selection using the median-of-medians pivot (groups of five). */
 public final class DeterministicSelector {
     private AlgorithmMetrics metrics = new AlgorithmMetrics();
 
